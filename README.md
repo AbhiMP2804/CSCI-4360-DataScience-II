@@ -1,3 +1,4 @@
+
 # **CSCI 4360 - Data Science II: Homework Assignments**
 
 Welcome to the repository for **CSCI 4360 - Data Science II** at the University of Georgia! This repository showcases my homework assignments that delve into key topics in data science, such as linear regression, decision trees, text retrieval, outlier detection, and advanced machine learning techniques.
@@ -11,7 +12,7 @@ Welcome to the repository for **CSCI 4360 - Data Science II** at the University 
   - ✅ Classify data using Naive Bayes and analyze probability calculations
   - ✅ Build a Decision Tree using Information Gain
 - **Tools Used**: Python (NumPy, Pandas)
-- **[More Details]([file-7V2CNydF7QnDFASwwS4lPncp](https://github.com/AbhiMP2804/CSCI-4360-DataScience-II/tree/master/HW2_PQ))**
+- **[More Details](https://github.com/AbhiMP2804/CSCI-4360-DataScience-II/tree/master/HW2_PQ)**
 
 ---
 
@@ -22,7 +23,7 @@ Welcome to the repository for **CSCI 4360 - Data Science II** at the University 
   - 📊 Build a term-document incidence matrix and apply TF-IDF
   - 🌸 Classify Iris species and evaluate performance using metrics like accuracy, F1-score, and ROC AUC
 - **Tools Used**: Python (Scikit-learn, PyTorch)
-- **[More Details]([file-ppQABoKegKXSPsQYmxVQmMZ](https://github.com/AbhiMP2804/CSCI-4360-DataScience-II/tree/master/HW2_PQ)s)**
+- **[More Details](https://github.com/AbhiMP2804/CSCI-4360-DataScience-II/tree/master/HW_3PQ)**
 
 ---
 
@@ -33,7 +34,7 @@ Welcome to the repository for **CSCI 4360 - Data Science II** at the University 
   - 🛒 Design content-based and collaborative filtering recommender systems
   - 📈 Evaluate recommender systems using Precision@K, MAP, and NDCG metrics
 - **Tools Used**: Python (NumPy, Scikit-learn)
-- **[More Details](file-fr2rGZkSLue4LWzFNt1vGdmQ)**
+- **[More Details](https://github.com/AbhiMP2804/CSCI-4360-DataScience-II/tree/master/HW4_PQ)**
 
 ---
 
@@ -45,3 +46,4 @@ To run the assignments, clone the repository and install the required dependenci
 git clone https://github.com/AbhiMP2804/CSCI-4360-DataScience-II.git
 cd CSCI-4360-DataScience-II
 pip install -r requirements.txt
+```
