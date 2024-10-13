@@ -1,5 +1,5 @@
 
-# **CSCI 4360 - Data Science II: Homework Assignments**
+# **CSCI 6360 - Data Science II: Homework Assignments**
 
 Welcome to the repository for **CSCI 4360 - Data Science II** at the University of Georgia! This repository showcases my homework assignments that delve into key topics in data science, such as linear regression, decision trees, text retrieval, outlier detection, and advanced machine learning techniques.
 
